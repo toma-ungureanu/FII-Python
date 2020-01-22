@@ -1,0 +1,36 @@
+def word_2_vec_vectorizer():
+    model = None
+    if os.path.exists('model.bin'):
+        print("Model exists!")
+        model = gensim.models.KeyedVectors.load_word2vec_format('model.bin', fvocab="vocab.txt", binary=True)
+        return model
+
+    gensim.parsing.preprocessing.STOPWORDS = read_stop_words()
+    print("Stripping all the stop words...")
+    prep_train_samples = [remove_stopwords(x) for x in train_samples]
+    print("Stripped all the stop words!")
+
+    print("Stripping all the numbers...")
+    prep_train_samples = [strip_numeric(x) for x in train_samples]
+    print("Stripped all the numbers!")
+
+    print("Stripping all the dangling whitespaces...")
+    prep_train_samples = [strip_multiple_whitespaces(x) for x in train_samples]
+    print("Stripped all the dangling whitespaces!")
+
+    print("Tokenizing...")
+    prep_train_samples = [gensim.utils.simple_preprocess(x) for x in train_samples]
+    print("Tokenization done!")
+
+    workers = multiprocessing.cpu_count()
+    print('number of cpu: {}'.format(workers))
+    assert gensim.models.doc2vec.FAST_VERSION > -1, "This will be painfully slow otherwise."
+
+    print("Creating model...")
+    model = gensim.models.Word2Vec(prep_train_samples, size=150, window=10, min_count=2, workers=workers, iter=10)
+    print("Model created!")
+
+    model.wv.save_word2vec_format('model.bin', fvocab="vocab.txt", binary=True)
+    print("Model saved!")
+
+    return model

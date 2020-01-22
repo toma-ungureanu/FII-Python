@@ -29,7 +29,7 @@ def main():
             raise OSError
         printDirTree(path)
     except OSError:
-        print(" Enter a directory too look in!")
+        print(" Enter a directory to look in!")
     except EmptyPathError:
         print(" Enter a path!")
 

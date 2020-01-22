@@ -1,0 +1,6 @@
+skitlearn bow, tf-idf
+keras CNN, RNN
+gensim word2vec
+BERT - best!!
+glove 
+

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3f02865-da2a-42b0-9fd2-6dc0391cec6a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UoHc879idwLHJaJT3XsLzmBkgc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.lab11">
+    <configuration name="lab11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lab11_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s11" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="lab11_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\thomi\PycharmProjects\lab11_py\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lab11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3f02865-da2a-42b0-9fd2-6dc0391cec6a" name="Default Changelist" comment="" />
+      <created>1576016104138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576016104138</updated>
+      <workItem from="1576016116831" duration="11473000" />
+      <workItem from="1576158616219" duration="5923000" />
+      <workItem from="1576425936425" duration="251000" />
+      <workItem from="1576767779926" duration="1377000" />
+      <workItem from="1576958794696" duration="159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576016209781">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1576016209781" />
+    <state x="325" y="169" key="FileChooserDialogImpl" timestamp="1576426171440">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="325" y="169" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576426171440" />
+    <state width="1493" height="179" key="GridCell.Tab.0.bottom" timestamp="1576769627454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="168" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1576768499167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="168" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1576768499167" />
+    <state width="1493" height="179" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576769627454" />
+    <state width="1493" height="179" key="GridCell.Tab.0.center" timestamp="1576769627453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="168" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1576768499167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="168" key="GridCell.Tab.0.center.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1576768499167" />
+    <state width="1493" height="179" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576769627453" />
+    <state width="1493" height="179" key="GridCell.Tab.0.left" timestamp="1576769627453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="168" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1576768499167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="168" key="GridCell.Tab.0.left.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1576768499167" />
+    <state width="1493" height="179" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576769627453" />
+    <state width="1493" height="179" key="GridCell.Tab.0.right" timestamp="1576769627453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="168" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1576768499167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="168" key="GridCell.Tab.0.right.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1576768499167" />
+    <state width="1493" height="179" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576769627453" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1576165702176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576165702176" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1576165702176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1576165702176" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1576165702176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1576165702176" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1576165702176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1576165702176" />
+    <state x="0" y="57" key="SettingsEditor" timestamp="1576091060135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576091060134" />
+    <state x="311" y="153" key="com.intellij.ide.util.TipDialog" timestamp="1576958794596">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="311" y="153" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1576958794596" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/s11.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lab11_py$s11.coverage" NAME="s11 Coverage Results" MODIFIED="1576768423758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab11_py$lab11.coverage" NAME="lab11 Coverage Results" MODIFIED="1576768499153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

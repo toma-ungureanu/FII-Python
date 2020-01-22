@@ -18,7 +18,7 @@
   <component name="ProjectId" id="1SkzAizycnUwz0eHrVNnpqmmS7Q" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ex9.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -254,6 +254,14 @@
       <option name="presentableId" value="Default" />
       <updated>1572122239552</updated>
       <workItem from="1572122240835" duration="13442000" />
+      <workItem from="1572212520739" duration="37000" />
+      <workItem from="1572220648971" duration="526000" />
+      <workItem from="1572297145640" duration="135000" />
+      <workItem from="1574676925288" duration="218000" />
+      <workItem from="1574755878022" duration="22000" />
+      <workItem from="1574756174556" duration="92000" />
+      <workItem from="1574767163383" duration="1039000" />
+      <workItem from="1574950708730" duration="1475000" />
     </task>
     <servers />
   </component>
@@ -265,18 +273,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ex6.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ex6.py</url>
           <line>29</line>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ex6.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
